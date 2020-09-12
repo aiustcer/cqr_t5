@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="fengtao@166.111.5.105:22 key" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="fengtao@166.111.5.105:22 (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data3/private/fengtao/Projects/cqr_t5" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="fengtao@166.111.5.105:22 key">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data3/private/fengtao/Projects/cqr_t5" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

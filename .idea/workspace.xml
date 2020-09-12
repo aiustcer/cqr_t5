@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e3177a2-280a-4625-8619-5d4914555201" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/predict.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/gen_weak_train_data_t5.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/t5_rule.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/t5_simplifier.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/cqr/inference_model.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/cqr/dataset.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/test.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/gpt2_sim.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/cqr/run_training.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="JupyterTrust" id="a280c5d5-bf32-4b45-8a8c-e24b13a8c5a0" />
+  <component name="ProjectId" id="1gUWbaXNCCRdIuZbsceAeOFnLiH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/t5_response" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bert_ranking" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/t5_response" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.res_bleu">
+    <configuration name="bleu_response" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cqr_t5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bert_ranking" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bert_ranking/bleu_response.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cqr_t5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/t5_response" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/t5_response/data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="make_cv_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cqr_t5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/t5_response" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/t5_response/make_cv_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="res_bleu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cqr_t5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bert_ranking" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bert_ranking/res_bleu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cqr_t5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.bleu_response" />
+      <item itemvalue="Python.data" />
+      <item itemvalue="Python.make_cv_data" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.res_bleu" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.res_bleu" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.make_cv_data" />
+        <item itemvalue="Python.data" />
+        <item itemvalue="Python.bleu_response" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e3177a2-280a-4625-8619-5d4914555201" name="Default Changelist" comment="" />
+      <created>1598169723423</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598169723423</updated>
+      <workItem from="1598169724754" duration="2202000" />
+      <workItem from="1598172695735" duration="222000" />
+      <workItem from="1598172979450" duration="392000" />
+      <workItem from="1598173381440" duration="275000" />
+      <workItem from="1598173664401" duration="341000" />
+      <workItem from="1598174039968" duration="2633000" />
+      <workItem from="1598236789701" duration="9000" />
+      <workItem from="1598236807757" duration="886000" />
+      <workItem from="1598237737098" duration="38567000" />
+      <workItem from="1598492638680" duration="229000" />
+      <workItem from="1598494822038" duration="5785000" />
+      <workItem from="1598604341441" duration="563000" />
+      <workItem from="1598637478295" duration="598000" />
+      <workItem from="1598757568633" duration="769000" />
+      <workItem from="1598758358009" duration="1659000" />
+      <workItem from="1598760170481" duration="12000" />
+      <workItem from="1598760187791" duration="1000" />
+      <workItem from="1598760196896" duration="267000" />
+      <workItem from="1598760472958" duration="330000" />
+      <workItem from="1598760812025" duration="2529000" />
+      <workItem from="1598807663773" duration="1000" />
+      <workItem from="1598807672960" duration="2516000" />
+      <workItem from="1598931118340" duration="3791000" />
+      <workItem from="1599014996136" duration="2567000" />
+      <workItem from="1599018331189" duration="9498000" />
+      <workItem from="1599046841591" duration="30000" />
+      <workItem from="1599046898713" duration="2705000" />
+      <workItem from="1599055362405" duration="1253000" />
+      <workItem from="1599101865514" duration="2246000" />
+      <workItem from="1599160363658" duration="3773000" />
+      <workItem from="1599273504317" duration="7358000" />
+      <workItem from="1599393469690" duration="87000" />
+      <workItem from="1599393568598" duration="71000" />
+      <workItem from="1599393648680" duration="85000" />
+      <workItem from="1599393744463" duration="39000" />
+      <workItem from="1599393801529" duration="16872000" />
+      <workItem from="1599564449375" duration="2000" />
+      <workItem from="1599564461567" duration="108000" />
+      <workItem from="1599564581922" duration="12441000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="269" y="225" width="1027" height="669" key="#Deployment" timestamp="1599491163795">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="269" y="225" width="1027" height="669" key="#Deployment/0.0.1792.1120@0.0.1792.1120" timestamp="1599491163795" />
+    <state x="492" y="229" key="#Options" timestamp="1599675323272">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="492" y="229" key="#Options/0.0.1792.1120@0.0.1792.1120" timestamp="1599675323272" />
+    <state x="360" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599490573943">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="360" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1599490573943" />
+    <state x="584" y="303" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1599014888250">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="584" y="303" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1599014888250" />
+    <state x="100" y="100" width="1592" height="920" key="DirDiffDialog" timestamp="1598976729374">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="100" y="100" width="1592" height="920" key="DirDiffDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1598976729374" />
+    <state width="1750" height="346" key="GridCell.Tab.0.bottom" timestamp="1599821759412">
+      <screen x="0" y="23" width="1792" height="1013" />
+    </state>
+    <state width="1750" height="251" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1599675265524" />
+    <state width="1750" height="346" key="GridCell.Tab.0.bottom/0.23.1792.1013@0.23.1792.1013" timestamp="1599821759412" />
+    <state width="1750" height="329" key="GridCell.Tab.0.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1599101505882" />
+    <state width="1750" height="346" key="GridCell.Tab.0.center" timestamp="1599821759411">
+      <screen x="0" y="23" width="1792" height="1013" />
+    </state>
+    <state width="1750" height="251" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1599675265523" />
+    <state width="1750" height="346" key="GridCell.Tab.0.center/0.23.1792.1013@0.23.1792.1013" timestamp="1599821759411" />
+    <state width="1750" height="329" key="GridCell.Tab.0.center/0.23.1792.1017@0.23.1792.1017" timestamp="1599101505880" />
+    <state width="1750" height="346" key="GridCell.Tab.0.left" timestamp="1599821759411">
+      <screen x="0" y="23" width="1792" height="1013" />
+    </state>
+    <state width="1750" height="251" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1599675265522" />
+    <state width="1750" height="159" key="GridCell.Tab.0.left/0.0.1792.1120@0.23.1792.1017" timestamp="1598255479227" />
+    <state width="1750" height="346" key="GridCell.Tab.0.left/0.23.1792.1013@0.23.1792.1013" timestamp="1599821759411" />
+    <state width="1750" height="329" key="GridCell.Tab.0.left/0.23.1792.1017@0.23.1792.1017" timestamp="1599101505878" />
+    <state width="1750" height="346" key="GridCell.Tab.0.right" timestamp="1599821759411">
+      <screen x="0" y="23" width="1792" height="1013" />
+    </state>
+    <state width="1750" height="251" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1599675265523" />
+    <state width="1750" height="346" key="GridCell.Tab.0.right/0.23.1792.1013@0.23.1792.1013" timestamp="1599821759411" />
+    <state width="1750" height="329" key="GridCell.Tab.0.right/0.23.1792.1017@0.23.1792.1017" timestamp="1599101505881" />
+    <state width="1750" height="346" key="GridCell.Tab.1.bottom" timestamp="1599821759413">
+      <screen x="0" y="23" width="1792" height="1013" />
+    </state>
+    <state width="1750" height="251" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1599675267408" />
+    <state width="1750" height="346" key="GridCell.Tab.1.bottom/0.23.1792.1013@0.23.1792.1013" timestamp="1599821759413" />
+    <state width="1750" height="329" key="GridCell.Tab.1.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1599101505888" />
+    <state width="1750" height="346" key="GridCell.Tab.1.center" timestamp="1599821759412">
+      <screen x="0" y="23" width="1792" height="1013" />
+    </state>
+    <state width="1750" height="251" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1599675267406" />
+    <state width="1750" height="346" key="GridCell.Tab.1.center/0.23.1792.1013@0.23.1792.1013" timestamp="1599821759412" />
+    <state width="1750" height="329" key="GridCell.Tab.1.center/0.23.1792.1017@0.23.1792.1017" timestamp="1599101505886" />
+    <state width="1750" height="346" key="GridCell.Tab.1.left" timestamp="1599821759412">
+      <screen x="0" y="23" width="1792" height="1013" />
+    </state>
+    <state width="1750" height="251" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1599675267406" />
+    <state width="1750" height="346" key="GridCell.Tab.1.left/0.23.1792.1013@0.23.1792.1013" timestamp="1599821759412" />
+    <state width="1750" height="329" key="GridCell.Tab.1.left/0.23.1792.1017@0.23.1792.1017" timestamp="1599101505883" />
+    <state width="1750" height="346" key="GridCell.Tab.1.right" timestamp="1599821759413">
+      <screen x="0" y="23" width="1792" height="1013" />
+    </state>
+    <state width="1750" height="251" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1599675267407" />
+    <state width="1750" height="346" key="GridCell.Tab.1.right/0.23.1792.1013@0.23.1792.1013" timestamp="1599821759413" />
+    <state width="1750" height="329" key="GridCell.Tab.1.right/0.23.1792.1017@0.23.1792.1017" timestamp="1599101505887" />
+    <state x="451" y="297" width="1090" height="525" key="PyMappingSimpleResolveDialog" timestamp="1598173272736">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="451" y="297" width="1090" height="525" key="PyMappingSimpleResolveDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1598173272736" />
+    <state x="761" y="142" key="SettingsEditor" timestamp="1599564637214">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="761" y="142" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1599564637214" />
+    <state width="896" height="560" key="XDebugger.FullValuePopup" timestamp="1599495665243">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="896" height="560" key="XDebugger.FullValuePopup/0.0.1792.1120@0.0.1792.1120" timestamp="1599495665243" />
+    <state x="681" y="443" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration" timestamp="1598169809854">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="681" y="443" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/0.0.1792.1120@0.0.1792.1120" timestamp="1598169809854" />
+    <state x="525" y="298" width="463" height="525" key="ftp.server.browser" timestamp="1598760591459">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="525" y="298" width="463" height="525" key="ftp.server.browser/0.0.1792.1120@0.0.1792.1120" timestamp="1598760591459" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1598489291422">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1598489291422" />
+    <state x="110" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1599396410289">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="110" y="251" width="670" height="676" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1599396410289" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Library/Caches/JetBrains/PyCharm2020.1/remote_sources/1903884003/-589997932/transformers/modeling_gpt2.py</url>
+          <line>616</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/t5_simplifier.py</url>
+          <line>109</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>149</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bert_ranking/batchEval.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/t5/y2_data/cbor_data.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data_download/trec_car_tool/read_data_test.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data_download/trec_car_tool/python/car_trecweb.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/cqr/preprocess.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test2.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/t5_response/dataset.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bert_ranking/bleu.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bert_ranking/bleu_response.py</url>
+          <line>62</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bert_ranking/res_bleu.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/t5_response/source.py</url>
+          <line>73</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/cqr_t5$read_data_test.coverage" NAME="read_data_test Coverage Results" MODIFIED="1599126192671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_download/trec_car_tool" />
+    <SUITE FILE_PATH="coverage/cqr_t5$t5_run.coverage" NAME="t5_run Coverage Results" MODIFIED="1598806249512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cqr_t5$evalu.coverage" NAME="evalu Coverage Results" MODIFIED="1599044578473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bert_ranking" />
+    <SUITE FILE_PATH="coverage/cqr_t5$res_bleu.coverage" NAME="res_bleu Coverage Results" MODIFIED="1599675265344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bert_ranking" />
+    <SUITE FILE_PATH="coverage/cqr_t5$gen_3.coverage" NAME="gen_3 Coverage Results" MODIFIED="1598491619001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gen_div" />
+    <SUITE FILE_PATH="coverage/cqr_t5$t5_rule.coverage" NAME="t5_rule Coverage Results" MODIFIED="1598464554325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cqr_t5$t5_simplifier.coverage" NAME="t5_simplifier Coverage Results" MODIFIED="1598432368085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cqr_t5$gen_weak_train_data_t5.coverage" NAME="gen_weak_train_data_t5 Coverage Results" MODIFIED="1598488590846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cqr_t5$dataset.coverage" NAME="dataset Coverage Results" MODIFIED="1599485731379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t5_response" />
+    <SUITE FILE_PATH="coverage/cqr_t5$bleu.coverage" NAME="bleu Coverage Results" MODIFIED="1599493598321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bert_ranking" />
+    <SUITE FILE_PATH="coverage/cqr_t5$preprocess.coverage" NAME="preprocess Coverage Results" MODIFIED="1599160987564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cqr" />
+    <SUITE FILE_PATH="coverage/cqr_t5$make_cv_data.coverage" NAME="make_cv_data Coverage Results" MODIFIED="1599674954249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t5_response" />
+    <SUITE FILE_PATH="coverage/cqr_t5$gen_0.coverage" NAME="gen_0 Coverage Results" MODIFIED="1598491611666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gen_div" />
+    <SUITE FILE_PATH="coverage/cqr_t5$test.coverage" NAME="test Coverage Results" MODIFIED="1599675239506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cqr_t5$generate_training_data.coverage" NAME="generate_training_data Coverage Results" MODIFIED="1598248685481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cqr/weak_supervision/self_learn" />
+    <SUITE FILE_PATH="coverage/cqr_t5$gen_2.coverage" NAME="gen_2 Coverage Results" MODIFIED="1598491664653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gen_div" />
+    <SUITE FILE_PATH="coverage/cqr_t5$bleu_response.coverage" NAME="bleu_response Coverage Results" MODIFIED="1599669017712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bert_ranking" />
+    <SUITE FILE_PATH="coverage/cqr_t5$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1599285157299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cqr_t5$cbor_data.coverage" NAME="cbor_data Coverage Results" MODIFIED="1599046062903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t5/y2_data" />
+    <SUITE FILE_PATH="coverage/cqr_t5$batchEval.coverage" NAME="batchEval Coverage Results" MODIFIED="1599493390789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bert_ranking" />
+    <SUITE FILE_PATH="coverage/cqr_t5$ga.coverage" NAME="ga Coverage Results" MODIFIED="1598758682269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gen_divided" />
+    <SUITE FILE_PATH="coverage/cqr_t5$predict.coverage" NAME="predict Coverage Results" MODIFIED="1599491490604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t5_response" />
+    <SUITE FILE_PATH="coverage/cqr_t5$launch.coverage" NAME="launch Coverage Results" MODIFIED="1598491133465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gen_div" />
+    <SUITE FILE_PATH="coverage/cqr_t5$gen_4.coverage" NAME="gen_4 Coverage Results" MODIFIED="1598491697900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gen_div" />
+    <SUITE FILE_PATH="coverage/cqr_t5$gpt2_sim.coverage" NAME="gpt2_sim Coverage Results" MODIFIED="1598247415497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cqr_t5$run.coverage" NAME="run Coverage Results" MODIFIED="1598760791628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t5" />
+    <SUITE FILE_PATH="coverage/cqr_t5$data.coverage" NAME="data Coverage Results" MODIFIED="1599673201480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t5_response" />
+    <SUITE FILE_PATH="coverage/cqr_t5$gen_1.coverage" NAME="gen_1 Coverage Results" MODIFIED="1598491615444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gen_div" />
+    <SUITE FILE_PATH="coverage/cqr_t5$car_trecweb.coverage" NAME="car_trecweb Coverage Results" MODIFIED="1599126218329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_download/trec_car_tool/python" />
+  </component>
+</project>
